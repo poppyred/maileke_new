@@ -5,7 +5,9 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <!--<item name="colorPrimary">#35f727</item>-->
+        <!--<item name="colorPrimaryDark">#2f9c1c</item>-->
+        <item name="colorAccent">#36b323</item>
         <item name="actionMenuTextColor">#ffffff</item>
 
         //沉浸状态栏

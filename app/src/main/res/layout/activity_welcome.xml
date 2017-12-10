@@ -12,9 +12,11 @@
         android:id="@+id/tv_welcome_author"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@android:color/white"
+        android:textColor="#230101"
+        android:textStyle="bold"
         android:layout_margin="10dp"
-        android:textSize="14sp"
+        android:text=""
+        android:textSize="25sp"
         android:layout_gravity="bottom|end"/>
 
 </FrameLayout>

@@ -75,7 +75,7 @@ dependencies {
     compile rootProject.ext.dependencies["PhotoView"]
     compile rootProject.ext.dependencies["glide-transformations"]
     compile rootProject.ext.dependencies["html-textview"]
-
+    compile 'com.makeramen:roundedimageview:2.2.1'
     //rx
     compile rootProject.ext.dependencies["rxjava"]
     compile rootProject.ext.dependencies["rxandroid"]
